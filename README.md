@@ -4,6 +4,7 @@ This is a reference implementation of our paper in MICCAI2023:
 Fine-grained Hand Bone Segmentation via Adaptive Multi-dimensional Convolutional Network and Anatomy-constraint Loss.
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_38)
 
+# Abstract
 Ultrasound imaging is a promising tool for clinical hand examination due to its radiation-free and cost-effective nature.
 To mitigate the impact of ultrasonic imaging defects on accurate clinical diagnosis, automatic fine-grained hand bone segmentation 
 is highly desired. However, existing ultrasound image segmentation methods face difficulties in performing this task due to the 
